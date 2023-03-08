@@ -49,6 +49,11 @@ Wide Web is HTML (from Hyper Text Markup Language).
         <form> </form>
         </body>
         </html>
+## Head
+the tab names in the brower
+
+### Head elements
+![image](https://user-images.githubusercontent.com/99423162/223622097-032afb1e-76b3-49f4-acbe-01ce1932cca1.png)
 
 
  
