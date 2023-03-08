@@ -55,5 +55,17 @@ the tab names in the brower
 ### Head elements
 ![image](https://user-images.githubusercontent.com/99423162/223622097-032afb1e-76b3-49f4-acbe-01ce1932cca1.png)
 
+## Body
+        <html>
+        <head>
+            <title> learn html </title>
+        </head>
+        <body>
+            <h1>Muh First HTML Page</h1>
+            <p>This defines a paragraph, Browers automatically add some space (margin) before and after each para element</p>
+        </body>
+        </html>
+
+
 
  
