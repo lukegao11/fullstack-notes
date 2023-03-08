@@ -36,5 +36,5 @@ Wide Web is HTML (from Hyper Text Markup Language).
 
 ![image](https://user-images.githubusercontent.com/99423162/223618052-d8a08f4b-7bed-4ef5-b800-f6d8bfd335a1.png)
 
-## Nested tag
+### Nested tag
 ![image](https://user-images.githubusercontent.com/99423162/223618369-837d050d-efaa-4741-9e57-f4e95b5e00e7.png)
