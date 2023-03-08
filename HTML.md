@@ -20,3 +20,4 @@ Wide Web is HTML (from Hyper Text Markup Language).
 • Include spread-sheets, video clips, sound clips, and other applications directly in their documents.
 
 
+![image](https://user-images.githubusercontent.com/99423162/223616729-f9730fb6-f53b-44f3-87c1-d5803aedfacd.png)
