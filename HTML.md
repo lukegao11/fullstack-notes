@@ -38,3 +38,17 @@ Wide Web is HTML (from Hyper Text Markup Language).
 
 ### Nested tag
 ![image](https://user-images.githubusercontent.com/99423162/223618369-837d050d-efaa-4741-9e57-f4e95b5e00e7.png)
+
+## Basic Structure
+<! DOCTYPE HTML>
+<html>
+<head>
+<title> ..... </title>
+</head>
+<body>
+<form> </form>
+</body>
+</html>
+
+
+
