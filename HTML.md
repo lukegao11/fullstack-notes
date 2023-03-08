@@ -12,10 +12,11 @@ Wide Web is HTML (from Hyper Text Markup Language).
 
 ## Uses of HTML
 • Publish online documents with headings, texts, tables, lists, photos, etc.
+
 • Retrieve online information via hypertexts links.
-• Design forms for conducting transactions with remote services, for use in
-searching for information, making reservations, ordering products, etc.
-• Include spread-sheets, video clips, sound clips, and other applications directly
-in their documents.
+
+• Design forms for conducting transactions with remote services, for use in searching for information, making reservations, ordering products, etc.
+
+• Include spread-sheets, video clips, sound clips, and other applications directly in their documents.
 
 
