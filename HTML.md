@@ -21,3 +21,20 @@ Wide Web is HTML (from Hyper Text Markup Language).
 
 
 ![image](https://user-images.githubusercontent.com/99423162/223616729-f9730fb6-f53b-44f3-87c1-d5803aedfacd.png)
+
+
+## Tag
+• A tag is a reference in an HTML document which describes the style and structure of the document.
+
+• All tag start with < (less than symbol) and end with > (greater than symbol)
+
+• Tags which mark a beginning have no / (front slash).
+
+• Tags which mark an ending have a / immediately after <, as in </.
+
+• Tags are not case sensitive.
+
+![image](https://user-images.githubusercontent.com/99423162/223618052-d8a08f4b-7bed-4ef5-b800-f6d8bfd335a1.png)
+
+## Nested tag
+![image](https://user-images.githubusercontent.com/99423162/223618369-837d050d-efaa-4741-9e57-f4e95b5e00e7.png)
