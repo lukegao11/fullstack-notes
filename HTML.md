@@ -61,11 +61,16 @@ the tab names in the brower
             <title> learn html </title>
         </head>
         <body>
-            <h1>Muh First HTML Page</h1>
+            <h1>My First HTML Page</h1>
             <p>This defines a paragraph, Browers automatically add some space (margin) before and after each para element</p>
         </body>
         </html>
 
-
-
+## Headers 
+        <h1>h1</h1>
+        <h2>h2</h2>
+        <h3>h3</h3>
+        <h4>h4</h4>
+        <h5>h5</h5>
+        <h6>h6</h6>     
  
