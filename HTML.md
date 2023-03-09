@@ -79,11 +79,11 @@ h7 and h8 is not recognized
 
 ## Lists (Unordered list)
 
-• An unordered list starts with the <ul> tag. Each list item starts with the <li> tag.
+An unordered list starts with the <ul> tag. Each list item starts with the <li> tag.
 
-• The list items will be marked with bullets (small black circles) by default.
+The list items will be marked with bullets (small black circles) by default.
         
-• The CSS list-style-type property is used to define the style of the list item marker
+The CSS list-style-type property is used to define the style of the list item marker
 
 
 
