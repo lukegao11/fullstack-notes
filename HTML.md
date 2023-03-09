@@ -75,4 +75,15 @@ the tab names in the brower
         <h6>h6</h6>     
  
 ![image](https://user-images.githubusercontent.com/99423162/223887518-b31f9117-81bb-4528-aba5-3797e52ae130.png)
+h7 and h8 is not recognized
+
+## Lists (Unordered list)
+
+• An unordered list starts with the <ul> tag. Each list item starts with the <li>
+tag.
+• The list items will be marked with bullets (small black circles) by default.
+• The CSS list-style-type property is used to define the style of the list item
+marker
+
+
 
