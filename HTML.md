@@ -88,9 +88,10 @@ The CSS **list-style-type** property is used to define the style of the list ite
 ![image](https://user-images.githubusercontent.com/99423162/223932805-83d82b49-5ba7-4bbb-b286-846519157032.png)
 
 ## Lists (Ordered list)
-The type attribute of the <ol> tag, defines the type of the list item marker：
+The type attribute of the `<ol`> tag, defines the type of the list item marker：
 
 ![image](https://user-images.githubusercontent.com/99423162/223932979-29fd418a-e928-4377-a2c6-9f9e5780cb94.png)
 
-        
+![image](https://user-images.githubusercontent.com/99423162/223933108-bb4df2d4-5ea2-46bc-8dd7-8cd83eeac1ac.png)
+
 
