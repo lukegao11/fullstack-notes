@@ -1,0 +1,22 @@
+MVC
+
+model ->
+
+view -> 
+
+controller ->
+
+URL 
+
+
+Models based on what the requirement needs
+
+
+public class Job{
+  JobCoe
+  Title
+  Description
+  Salary
+  DatePosted
+  Startate
+}
